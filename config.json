@@ -1,5 +1,5 @@
 {
-  "Version": "1.0",
+  "Version": "1.2",
   "ReleaseNotes": "Nueva Atualizacion Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/die22z/PRUEBA/refs/heads/main/config.json",
   "Sms": "",
@@ -7,7 +7,7 @@
   "LogoLink": "https://e7.pngegg.mbnail.png",
   "Servers": [
   {
-   "Name": "SMART TV 1",
+   "Name": "SMART TV 123",
    "FLAG": "br",
    "ServerIP": "recargas.personal.com.ar",
    "ServerPort": "80",
