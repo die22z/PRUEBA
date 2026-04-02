@@ -21,7 +21,7 @@
    "Slowchave": "",
    "Nameserver": "",
    "Slowdns": "",
-   "URLCheckuser": "http://1fd.v202.shop:5001/checkUser",
+   "URLCheckuser": "http://d.diego22z.online:5454/checkUser",
    "TunnelType": "Direct"
   },
  {
@@ -39,7 +39,7 @@
    "Slowchave": "",
    "Nameserver": "",
    "Slowdns": "",
-   "URLCheckuser": " http://1gd.v202.shop:5001",
+   "URLCheckuser": " http://d.diego22z.online:5454/checkUser",
    "TunnelType": "Direct"
   },
  {
@@ -57,7 +57,7 @@
    "Slowchave": "",
    "Nameserver": "",
    "Slowdns": "",
-   "URLCheckuser": " http://186.148.224.18:5001",
+   "URLCheckuser": " http://d.diego22z.online:5454/checkUser",
    "TunnelType": "Direct"
   },
 {
@@ -75,7 +75,7 @@
    "Slowchave": "",
    "Nameserver": "",
    "Slowdns": "",
-   "URLCheckuser": " http://1wu.v202.shop:5001/checkUser",
+   "URLCheckuser": " http://d.diego22z.online:5454/checkUser",
    "TunnelType": "Direct"
   }
  ]
